@@ -698,7 +698,7 @@ transform: translateY(-6px) rotate(45deg); background-color: var(--white);
     pointer-events: none;
 }
 
-.text-group h2 { 
+.text-group h3 { 
     font-size: clamp(2rem, 4vw, 3.5rem); 
     margin-bottom: 1rem; 
     color: var(--white); 
