@@ -1,7 +1,6 @@
 # 🦵 Rodihab | Landing Page de Fisioterapia Online
 
 ![Rodihab Preview](./assets/images/banner-rodihab.png) 
-*(Nota: Si tienes una captura de pantalla real de la web terminada, sube la imagen y cambia este enlace por el de la captura para que se vea la web)*
 
 Una landing page moderna, totalmente responsiva y optimizada para SEO, diseñada para **Rodihab**, un servicio de rehabilitación online especializado en lesiones de rodilla (LCA y Menisco). 
 
