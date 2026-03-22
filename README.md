@@ -1,3 +1,5 @@
+
+```markdown
 # 🦵 Rodihab | Landing Page de Fisioterapia Online
 
 ![Rodihab Preview](./assets/images/banner-rodihab.png) 
@@ -8,9 +10,7 @@ Este proyecto destaca por su interfaz dinámica y su **"Scrollytelling"** fluido
 
 🔗 **[Ver Demo en Vivo](https://landing-rodihab.vercel.app/)**
 
-
 ---
-
 
 ## ✨ Características Principales
 
@@ -20,17 +20,13 @@ Este proyecto destaca por su interfaz dinámica y su **"Scrollytelling"** fluido
 * 🎨 **UI/UX Moderna:** Uso de variables CSS, efecto Glassmorphism (backdrop-filter), modo sticky para las secciones informativas y navegación lateral interactiva (Side Nav).
 * ⚡ **Performance:** Sin dependencias externas pesadas. Maquetación pura en HTML5 y CSS3.
 
-
 ---
-
 
 ## 🛠️ Tecnologías Utilizadas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ---
-
 
 ## 📂 Estructura del Proyecto
 
@@ -49,23 +45,27 @@ Landing-rodihab/
 ├── 📄 index.html          # Landing page principal
 ├── 📄 robots.txt          # Directivas para rastreadores web
 └── 📄 sitemap.xml         # Mapa del sitio para SEO
+```
 
-💻 Instalación y Uso Local
+---
+
+## 💻 Instalación y Uso Local
 
 Si quieres clonar este repositorio y probarlo en tu entorno local:
-```
-1. Clona el repositorio:
 
-```bash
-    git clone [https://github.com/davidValades/Landing-rodihab.git](https://github.com/davidValades/Landing-rodihab.git)
-```
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/davidValades/Landing-rodihab.git
+   ```
 
 2. Abre la carpeta del proyecto:
+   ```bash
+   cd Landing-rodihab
+   ```
 
-```bash
-cd Landing-rodihab
+3. Abre el archivo `index.html` en tu navegador o utiliza la extensión **Live Server** de VS Code.
+
+---
+
+*⭐ Proyecto desarrollado por [David Valadés Navarro](https://github.com/davidValades).*
 ```
-
-3. Abre el archivo index.html en tu navegador o utiliza la extensión Live Server de VS Code.
-
-⭐ Proyecto desarrollado por [David Valadés Navarro](https://github.com/davidValades).
