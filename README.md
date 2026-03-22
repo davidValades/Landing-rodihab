@@ -53,11 +53,11 @@ Landing-rodihab/
 💻 Instalación y Uso Local
 
 Si quieres clonar este repositorio y probarlo en tu entorno local:
-
+```
 1. Clona el repositorio:
 
 ```bash
-git clone [https://github.com/davidValades/Landing-rodihab.git](https://github.com/davidValades/Landing-rodihab.git)
+    git clone [https://github.com/davidValades/Landing-rodihab.git](https://github.com/davidValades/Landing-rodihab.git)
 ```
 
 2. Abre la carpeta del proyecto:
