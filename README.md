@@ -1,5 +1,3 @@
-
-```markdown
 # 🦵 Rodihab | Landing Page de Fisioterapia Online
 
 ![Rodihab Preview](./assets/images/banner-rodihab.png) 
